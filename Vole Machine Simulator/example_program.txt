@@ -1,0 +1,3 @@
+2141 ; load R1 with 0x41 (A)
+3100 ; store R1 to screen
+C000 ; halt

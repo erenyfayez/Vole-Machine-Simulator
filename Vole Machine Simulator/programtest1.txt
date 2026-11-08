@@ -1,0 +1,11 @@
+; Count down from 5 to 1 on the screen
+; Load this program at address 00
+; Tried on simulator: (Yes / X)
+2000
+2105
+22FF
+31FF
+5112
+B10E
+B006
+C000
